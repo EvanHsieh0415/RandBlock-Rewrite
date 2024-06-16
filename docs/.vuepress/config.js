@@ -4,7 +4,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./definitions/theme";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/RandBlock-Rewrite/",
   bundler: viteBundler(),
   head: [["meta", { charset: "utf-8" }]],
   theme,
