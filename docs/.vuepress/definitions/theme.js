@@ -2,7 +2,7 @@ import { defaultTheme } from "@vuepress/theme-default";
 
 /** @type {defaultTheme} */
 const theme = defaultTheme({
-  logo: "/images/favicon-64x64.png",
+  logo: "/images/pack-icon.png.png",
   logoAlt: "",
 
   colorMode: "dark",
