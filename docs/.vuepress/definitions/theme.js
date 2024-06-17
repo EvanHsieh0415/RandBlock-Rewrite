@@ -18,7 +18,7 @@ const theme = defaultTheme({
     "/": {
       selectLanguageName: "English",
       navbar: [
-        { text: "Discord", link: "/links/discord" },
+        { text: "Discord", link: "https://evanhsieh0415.github.io/links/discord.html" },
         {
           text: "Original Modpack Information",
           children: [{ text: "CurseForge", link: "https://www.curseforge.com/minecraft/modpacks/randblock" }],
@@ -28,7 +28,7 @@ const theme = defaultTheme({
     "/zh-tw/": {
       selectLanguageName: "Traditional Chinese（台灣正體）",
       navbar: [
-        { text: "Discord", link: "/links/discord" },
+        { text: "Discord", link: "https://evanhsieh0415.github.io/links/discord.html" },
         {
           text: "原始模組包資訊",
           children: [
